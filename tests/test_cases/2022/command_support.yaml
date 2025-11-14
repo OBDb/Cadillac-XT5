@@ -1,6 +1,10 @@
-model_year: 2018
+model_year: 2022
 supported_commands_by_ecu:
   "7E0":
+  - 7E0.010D:VSS
+  - 7E0.012F:FLI
+  - 7E0.0131:CLR_DIST
+  - 7E0.01A6:ODO
   - 7E0.2211A1:CADILLAC_RUNTM
   - 7E0.7E8.22000D:CADILLAC_VSS
 unsupported_commands_by_ecu:
