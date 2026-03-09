@@ -4,29 +4,8 @@ test_cases:
     CADILLAC_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:
-    CADILLAC_RUNTM: 609
-  response: 7E8056211A10261
+    CADILLAC_RUNTM: 753
+  response: 7E8056211A102F1
 - expected_values:
-    CADILLAC_RUNTM: 736
-  response: 7E8056211A102E0
-- expected_values:
-    CADILLAC_RUNTM: 742
-  response: 7E8056211A102E6
-- expected_values:
-    CADILLAC_RUNTM: 811
-  response: 7E8056211A1032B
-- expected_values:
-    CADILLAC_RUNTM: 859
-  response: 7E8056211A1035B
-- expected_values:
-    CADILLAC_RUNTM: 899
-  response: 7E8056211A10383
-- expected_values:
-    CADILLAC_RUNTM: 929
-  response: 7E8056211A103A1
-- expected_values:
-    CADILLAC_RUNTM: 961
-  response: 7E8056211A103C1
-- expected_values:
-    CADILLAC_RUNTM: 992
-  response: 7E8056211A103E0
+    CADILLAC_RUNTM: 783
+  response: 7E8056211A1030F
