@@ -1,11 +1,11 @@
 command_id: 7E0.2211A1
 test_cases:
 - expected_values:
-    CADILLAC_RUNTM: 33
-  response: 7E8056211A10021
+    CADILLAC_RUNTM: 0
+  response: 7E8056211A10000
 - expected_values:
     CADILLAC_RUNTM: 252
   response: 7E8056211A100FC
 - expected_values:
-    CADILLAC_RUNTM: 282
-  response: 7E8056211A1011A
+    CADILLAC_RUNTM: 281
+  response: 7E8056211A10119
