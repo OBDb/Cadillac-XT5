@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     CADILLAC_VSS: 0
   response: 7E80462000D00
+- expected_values:
+    CADILLAC_VSS: 9
+  response: 7E80462000D09
+- expected_values:
+    CADILLAC_VSS: 12
+  response: 7E80462000D0C
+- expected_values:
+    CADILLAC_VSS: 41
+  response: 7E80462000D29
+- expected_values:
+    CADILLAC_VSS: 42
+  response: 7E80462000D2A
+- expected_values:
+    CADILLAC_VSS: 68
+  response: 7E80462000D44
+- expected_values:
+    CADILLAC_VSS: 255
+  response: 7E80462000DFF
