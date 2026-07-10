@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.22000D
 test_cases:
 - expected_values:
+    CADILLAC_VSS: 60
+  response: "7E8 04 62 00 0D 3C \n7EB 04 62 00 0D 3B "
+- expected_values:
     CADILLAC_VSS: 0
   response: 7E80462000D00
 - expected_values:
     CADILLAC_VSS: 255
   response: 7E80462000DFF
+- expected_values:
+    CADILLAC_VSS: 53
+  response: "7EB 04 62 00 0D 34 \n7E8 04 62 00 0D 35 "
