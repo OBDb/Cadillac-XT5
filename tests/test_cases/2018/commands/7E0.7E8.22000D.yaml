@@ -7,8 +7,18 @@ test_cases:
     CADILLAC_VSS: 0
   response: 7E80462000D00
 - expected_values:
+    CADILLAC_VSS: 0
+  response: |-
+    7E80462000D00
+    7EB0462000D00
+- expected_values:
     CADILLAC_VSS: 255
   response: 7E80462000DFF
 - expected_values:
     CADILLAC_VSS: 53
   response: "7EB 04 62 00 0D 34 \n7E8 04 62 00 0D 35 "
+- expected_values:
+    CADILLAC_VSS: 0
+  response: |-
+    7EB0462000D00
+    7E80462000D00
