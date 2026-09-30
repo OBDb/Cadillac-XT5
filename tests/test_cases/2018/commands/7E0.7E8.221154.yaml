@@ -1,8 +1,17 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
-    CADILLAC_EOT_CALC: 66
-  response: 7E8046211546A
+    CADILLAC_EOT_CALC: 50
+  response: '7E8 04 62 11 54 5A '
+- expected_values:
+    CADILLAC_EOT_CALC: 55
+  response: '7E8 04 62 11 54 5F '
+- expected_values:
+    CADILLAC_EOT_CALC: 88
+  response: '7E8 04 62 11 54 80 '
+- expected_values:
+    CADILLAC_EOT_CALC: 30
+  response: '7E80462115446'
 - expected_values:
     CADILLAC_EOT_CALC: 89
   response: '7E80462115481'
