@@ -2,6 +2,15 @@ command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
     CADILLAC_ATF_T_VAR_1: -40
+  response: "7E8 04 62 19 40 00 \n7EB 04 62 19 40 00 "
+- expected_values:
+    CADILLAC_ATF_T_VAR_1: 40
+  response: "7E8 04 62 19 40 50 \n7EB 04 62 19 40 50 "
+- expected_values:
+    CADILLAC_ATF_T_VAR_1: 51
+  response: "7E8 04 62 19 40 5B \n7EB 04 62 19 40 5B "
+- expected_values:
+    CADILLAC_ATF_T_VAR_1: -40
   response: |-
     7E80462194000
     7EB0462194000

@@ -2,4 +2,7 @@ command_id: 7E3.7EB.221B23
 test_cases:
 - expected_values:
     CADILLAC_TRANS_PARK_POS_1: 163
+  response: '7EB 04 62 1B 23 A3 '
+- expected_values:
+    CADILLAC_TRANS_PARK_POS_1: 163
   response: 7EB04621B23A3
