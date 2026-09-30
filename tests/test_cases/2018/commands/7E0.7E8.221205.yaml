@@ -7,5 +7,8 @@ test_cases:
     CADILLAC_MISFIRES_C2_CUR: 0
   response: '7E80462120500'
 - expected_values:
+    CADILLAC_MISFIRES_C2_CUR: 1
+  response: '7E80462120501'
+- expected_values:
     CADILLAC_MISFIRES_C2_CUR: 0
   response: "SEARCHING...\n7E8 04 62 12 05 00 "
