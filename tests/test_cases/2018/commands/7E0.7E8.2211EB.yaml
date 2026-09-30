@@ -2,6 +2,12 @@ command_id: 7E0.7E8.2211EB
 test_cases:
 - expected_values:
     CADILLAC_MISFIRES_C6_CUR: 0
+  response: "2211EB\n7E8 04 62 11 EB 00 "
+- expected_values:
+    CADILLAC_MISFIRES_C6_CUR: 2
+  response: "2211EB\n7E8 04 62 11 EB 02 "
+- expected_values:
+    CADILLAC_MISFIRES_C6_CUR: 0
   response: '7E8 04 62 11 EB 00 '
 - expected_values:
     CADILLAC_MISFIRES_C6_CUR: 0

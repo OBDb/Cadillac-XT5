@@ -2,4 +2,16 @@ command_id: 7E0.7E8.2212C3
 test_cases:
 - expected_values:
     CADILLAC_INJECTOR_DUTY_CYCLE_BANK_1: 0
+  response: "2212C3\n7E8 05 62 12 C3 00 00 "
+- expected_values:
+    CADILLAC_INJECTOR_DUTY_CYCLE_BANK_1: 2.25
+  response: "2212C3\n7E8 05 62 12 C3 00 96 "
+- expected_values:
+    CADILLAC_INJECTOR_DUTY_CYCLE_BANK_1: 2.355
+  response: |-
+    2212C3
+    NO DATA
+    7E8056212C3009D
+- expected_values:
+    CADILLAC_INJECTOR_DUTY_CYCLE_BANK_1: 0
   response: 7E8056212C30000
