@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222067
+test_cases:
+- expected_values:
+    CADILLAC_CRUISE_CTRL_STAT: 0
+  response: '7E8 04 62 20 67 00 '
+- expected_values:
+    CADILLAC_CRUISE_CTRL_STAT: 0
+  response: '7E80462206700'

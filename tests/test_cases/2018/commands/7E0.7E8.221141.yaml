@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221141
 test_cases:
 - expected_values:
+    CADILLAC_IGN_1_V: 14.4
+  response: "7E8 04 62 11 41 90 \n7EB 04 62 11 41 90 "
+- expected_values:
     CADILLAC_IGN_1_V: 0
   response: '7E80462114100'
 - expected_values:
@@ -23,6 +26,14 @@ test_cases:
   response: |-
     7E8046211418B
     7EB046211418C
+- expected_values:
+    CADILLAC_IGN_1_V: 14.1
+  response: |-
+    7E8046211418D
+    7EB046211418D
+- expected_values:
+    CADILLAC_IGN_1_V: 14.4
+  response: "7EB 04 62 11 41 90 \n7E8 04 62 11 41 90 "
 - expected_values:
     CADILLAC_IGN_1_V: 0
   response: |-
