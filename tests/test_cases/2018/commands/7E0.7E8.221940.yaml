@@ -16,6 +16,11 @@ test_cases:
     7E8046219406B
     7EB046219406B
 - expected_values:
+    CADILLAC_ATF_T_VAR_1: 72
+  response: |-
+    7E80462194070
+    7EB0462194070
+- expected_values:
     CADILLAC_ATF_T_VAR_1: 64
   response: |-
     7EB0462194068
