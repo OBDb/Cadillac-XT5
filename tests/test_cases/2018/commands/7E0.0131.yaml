@@ -9,8 +9,14 @@ test_cases:
     CLR_DIST: 1446
   response: "0131\n7E8 04 41 31 05 A6 "
 - expected_values:
-    CLR_DIST: 1447
-  response: "0131\n7E8 04 41 31 05 A7 "
+    CLR_DIST: 8409
+  response: "0131\n7E8 04 41 31 20 D9 "
+- expected_values:
+    CLR_DIST: 8419
+  response: "0131\n7E8 04 41 31 20 E3 "
+- expected_values:
+    CLR_DIST: 8409
+  response: '7E8 04 41 31 20 D9 '
 - expected_values:
     CLR_DIST: 52827
   response: '7E8 04 41 31 CE 5B '
