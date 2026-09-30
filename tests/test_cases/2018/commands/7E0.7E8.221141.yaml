@@ -4,6 +4,11 @@ test_cases:
     CADILLAC_IGN_1_V: 0
   response: '7E80462114100'
 - expected_values:
+    CADILLAC_IGN_1_V: 0
+  response: |-
+    7E80462114100
+    7EB0462114100
+- expected_values:
     CADILLAC_IGN_1_V: 13.8
   response: |-
     7E8046211418A
@@ -18,3 +23,8 @@ test_cases:
   response: |-
     7E8046211418B
     7EB046211418C
+- expected_values:
+    CADILLAC_IGN_1_V: 0
+  response: |-
+    7EB0462114100
+    7E80462114100
