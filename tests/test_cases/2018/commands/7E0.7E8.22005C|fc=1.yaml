@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22005C|fc=1
 test_cases:
 - expected_values:
+    CADILLAC_EOT: 82
+  response: "22005C\n7E8 04 62 00 5C 7A "
+- expected_values:
+    CADILLAC_EOT: 88
+  response: "22005C\n7E8 04 62 00 5C 80 "
+- expected_values:
     CADILLAC_EOT: 61
   response: '7E8 04 62 00 5C 65 '
 - expected_values:
@@ -15,6 +21,9 @@ test_cases:
 - expected_values:
     CADILLAC_EOT: 66
   response: 7E80462005C6A
+- expected_values:
+    CADILLAC_EOT: 77
+  response: 7E80462005C75
 - expected_values:
     CADILLAC_EOT: 90
   response: 7E80462005C82

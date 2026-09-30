@@ -4,3 +4,7 @@ test_cases:
     CADILLAC_EOP: 0
     CADILLAC_EOP_ACT: 0
   response: '7E80462234500'
+- expected_values:
+    CADILLAC_EOP: 324
+    CADILLAC_EOP_ACT: 324
+  response: '7E80462234551'
