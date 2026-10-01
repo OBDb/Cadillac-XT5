@@ -16,5 +16,5 @@ test_cases:
     XT5_CABIN_AC_HIGH_SIDE_V: 0.9
   response: 7E8046211442D
 - expected_values:
-    XT5_CABIN_AC_HIGH_SIDE_V: 1.16
-  response: 7E8046211443A
+    XT5_CABIN_AC_HIGH_SIDE_V: 1.46
+  response: '7E80462114449'
