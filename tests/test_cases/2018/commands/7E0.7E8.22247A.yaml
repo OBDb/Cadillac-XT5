@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22247A
+test_cases:
+- expected_values:
+    XT5_HOOD_SWITCH: 0
+  response: '7E8 04 62 24 7A 00 '
+- expected_values:
+    XT5_HOOD_SWITCH: 0
+  response: 7E80462247A00

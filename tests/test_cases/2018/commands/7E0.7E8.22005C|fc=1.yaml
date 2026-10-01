@@ -1,29 +1,26 @@
 command_id: 7E0.7E8.22005C|fc=1
 test_cases:
 - expected_values:
-    CADILLAC_EOT_V3: 82
+    XT5_EOT: 82
   response: "22005C\n7E8 04 62 00 5C 7A "
 - expected_values:
-    CADILLAC_EOT_V3: 88
+    XT5_EOT: 88
   response: "22005C\n7E8 04 62 00 5C 80 "
 - expected_values:
-    CADILLAC_EOT_V3: 61
+    XT5_EOT: 47
+  response: '7E8 04 62 00 5C 57 '
+- expected_values:
+    XT5_EOT: 61
   response: '7E8 04 62 00 5C 65 '
 - expected_values:
-    CADILLAC_EOT_V3: 81
-  response: '7E8 04 62 00 5C 79 '
+    XT5_EOT: 87
+  response: '7E8 04 62 00 5C 7F '
 - expected_values:
-    CADILLAC_EOT_V3: 89
+    XT5_EOT: 89
   response: '7E8 04 62 00 5C 81 '
 - expected_values:
-    CADILLAC_EOT_V3: 32
+    XT5_EOT: 32
   response: 7E80462005C48
 - expected_values:
-    CADILLAC_EOT_V3: 66
-  response: 7E80462005C6A
-- expected_values:
-    CADILLAC_EOT_V3: 77
-  response: 7E80462005C75
-- expected_values:
-    CADILLAC_EOT_V3: 90
-  response: 7E80462005C82
+    XT5_EOT: 91
+  response: 7E80462005C83

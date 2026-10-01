@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221C38
 test_cases:
 - expected_values:
-    CADILLAC_14V_POWER_MODULE: 0
+    XT5_14V_POWER_MODULE: 0
   response: '7E8 04 62 1C 38 00 '
 - expected_values:
-    CADILLAC_14V_POWER_MODULE: 0
+    XT5_14V_POWER_MODULE: 0
   response: 7E804621C3800

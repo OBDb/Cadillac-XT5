@@ -1,29 +1,29 @@
 command_id: 7E0.2211A1
 test_cases:
 - expected_values:
-    CADILLAC_RUNTM_V2: 0
+    XT5_RUNTM: 0
   response: "2211A1\n7E8 05 62 11 A1 00 00 "
 - expected_values:
-    CADILLAC_RUNTM_V2: 271
+    XT5_RUNTM: 271
   response: "2211A1\n7E8 05 62 11 A1 01 0F "
 - expected_values:
-    CADILLAC_RUNTM_V2: 0
+    XT5_RUNTM: 0
   response: '7E8 05 62 11 A1 00 00 '
 - expected_values:
-    CADILLAC_RUNTM_V2: 189
+    XT5_RUNTM: 189
   response: '7E8 05 62 11 A1 00 BD '
 - expected_values:
-    CADILLAC_RUNTM_V2: 926
+    XT5_RUNTM: 926
   response: '7E8 05 62 11 A1 03 9E '
 - expected_values:
-    CADILLAC_RUNTM_V2: 1046
+    XT5_RUNTM: 1046
   response: '7E8 05 62 11 A1 04 16 '
 - expected_values:
-    CADILLAC_RUNTM_V2: 0
+    XT5_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:
-    CADILLAC_RUNTM_V2: 502
+    XT5_RUNTM: 502
   response: 7E8056211A101F6
 - expected_values:
-    CADILLAC_RUNTM_V2: 2361
+    XT5_RUNTM: 2361
   response: 7E8056211A10939
