@@ -486,7 +486,7 @@
   "signals": [
     {"id": "XT5_TRANS_PARK_POS_2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Transmission park position switch 2"}
   ]},
-{ "hdr": "7E3", "rax": "7EB", "dbg": true, "cmd": {"22": "1B25"}, "freq": 1,
+{ "hdr": "7E3", "rax": "7EB", "cmd": {"22": "1B25"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
     {"id": "XT5_TRANS_SHIFT_1", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Transmission shift interlock switch 1"}
   ]},
