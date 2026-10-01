@@ -15,20 +15,20 @@ test_cases:
     7E80462194000
     7EB0462194000
 - expected_values:
-    XT5_ATF_T_VAR_1: 71
+    XT5_ATF_T_VAR_1: 55
   response: |-
-    7E8046219406F
-    7EB046219406F
+    7E8046219405F
+    7EB046219405F
 - expected_values:
     XT5_ATF_T_VAR_1: 72
   response: |-
     7E80462194070
     7EB0462194070
 - expected_values:
-    XT5_ATF_T_VAR_1: 79
+    XT5_ATF_T_VAR_1: 84
   response: |-
-    7E80462194077
-    7EB0462194077
+    7E8046219407C
+    7EB046219407C
 - expected_values:
     XT5_ATF_T_VAR_1: -40
   response: |-
