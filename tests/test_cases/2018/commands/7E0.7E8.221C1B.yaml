@@ -16,8 +16,8 @@ test_cases:
     XT5_EOP_CALC: 324
   response: '7E8 04 62 1C 1B 51 '
 - expected_values:
-    XT5_EOP_CALC: 316
-  response: 7E804621C1B4F
+    XT5_EOP_CALC: 296
+  response: 7E804621C1B4A
 - expected_values:
     XT5_EOP_CALC: 368
   response: 7E804621C1B5C

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     XT5_TOTAL_KNOCK_RETARD: 0
   response: 7E8046212D900
+- expected_values:
+    XT5_TOTAL_KNOCK_RETARD: 4.95
+  response: 7E8046212D90B

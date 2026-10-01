@@ -4,5 +4,23 @@ test_cases:
     XT5_EOP: 0
   response: '7E80462234500'
 - expected_values:
+    XT5_EOP: 300
+  response: 7E8046223454B
+- expected_values:
+    XT5_EOP: 304
+  response: 7E8046223454C
+- expected_values:
+    XT5_EOP: 308
+  response: 7E8046223454D
+- expected_values:
+    XT5_EOP: 312
+  response: 7E8046223454E
+- expected_values:
+    XT5_EOP: 316
+  response: 7E8046223454F
+- expected_values:
     XT5_EOP: 324
   response: '7E80462234551'
+- expected_values:
+    XT5_EOP: 332
+  response: '7E80462234553'
