@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221564
 test_cases:
 - expected_values:
+    XT5_AC_HIGH_SIDE_P: 64.64
+  response: '7E80462156420'
+- expected_values:
     XT5_AC_HIGH_SIDE_P: 107.06
   response: '7E80462156435'
