@@ -13,3 +13,8 @@ test_cases:
   response: |-
     7E8046220D0C0
     7EB046220D0C0
+- expected_values:
+    XT5_IGN_INPUT_ON_OFF: 192
+  response: |-
+    7EB046220D0C0
+    7E8046220D0C0
