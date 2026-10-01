@@ -1,6 +1,6 @@
 command_id: 7E0.7E8.221564
 test_cases:
 - expected_values:
-    CADILLAC_AC_HIGH_SIDE_P: 107.06
+    CADILLAC_AC_HIGH_SIDE_P_V2: 107.06
     CADILLAC_CABIN_AC_HIGH_SIDE_P: 53
   response: '7E80462156435'

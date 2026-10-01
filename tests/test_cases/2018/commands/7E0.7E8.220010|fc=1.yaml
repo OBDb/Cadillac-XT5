@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.220010|fc=1
 test_cases:
 - expected_values:
-    CADILLAC_MAF: 0
+    CADILLAC_MAF_V2: 0
   response: "220010\n7E8 05 62 00 10 00 00 "
 - expected_values:
-    CADILLAC_MAF: 6.47
+    CADILLAC_MAF_V2: 6.47
   response: "220010\nCAN ERROR\n220010\nSEARCHING...\n7E8 05 62 00 10 02 87 "
 - expected_values:
-    CADILLAC_MAF: 0
+    CADILLAC_MAF_V2: 0
   response: '7E8056200100000'
 - expected_values:
-    CADILLAC_MAF: 4.69
+    CADILLAC_MAF_V2: 4.69
   response: 7E80562001001D5
 - expected_values:
-    CADILLAC_MAF: 6.64
+    CADILLAC_MAF_V2: 6.64
   response: '7E8056200100298'
 - expected_values:
-    CADILLAC_MAF: 8.54
+    CADILLAC_MAF_V2: 8.54
   response: '7E8056200100356'
 - expected_values:
-    CADILLAC_MAF: 24.32
+    CADILLAC_MAF_V2: 24.32
   response: '7E8056200100980'
 - expected_values:
-    CADILLAC_MAF: 41.48
+    CADILLAC_MAF_V2: 41.48
   response: '7E8056200101034'

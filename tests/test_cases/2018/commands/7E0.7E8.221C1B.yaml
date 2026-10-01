@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.221C1B
 test_cases:
 - expected_values:
-    CADILLAC_EOP_CALC: 0
+    CADILLAC_EOP_CALC_V2: 0
   response: "221C1B\n7E8 04 62 1C 1B 00 "
 - expected_values:
-    CADILLAC_EOP_CALC: 308
+    CADILLAC_EOP_CALC_V2: 308
   response: "221C1B\n7E8 04 62 1C 1B 4D "
 - expected_values:
-    CADILLAC_EOP_CALC: 204
+    CADILLAC_EOP_CALC_V2: 204
   response: '7E8 04 62 1C 1B 33 '
 - expected_values:
-    CADILLAC_EOP_CALC: 312
+    CADILLAC_EOP_CALC_V2: 312
   response: '7E8 04 62 1C 1B 4E '
 - expected_values:
-    CADILLAC_EOP_CALC: 324
+    CADILLAC_EOP_CALC_V2: 324
   response: '7E8 04 62 1C 1B 51 '
 - expected_values:
-    CADILLAC_EOP_CALC: 316
+    CADILLAC_EOP_CALC_V2: 316
   response: 7E804621C1B4F
 - expected_values:
-    CADILLAC_EOP_CALC: 368
+    CADILLAC_EOP_CALC_V2: 368
   response: 7E804621C1B5C
