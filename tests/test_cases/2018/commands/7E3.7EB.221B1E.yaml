@@ -1,5 +1,5 @@
 command_id: 7E3.7EB.221B1E
 test_cases:
 - expected_values:
-    CADILLAC_SHIFTER_Y_POS_SENS_2: 108
+    XT5_SHIFTER_Y_POS_SENS_2: 108
   response: 7EB04621B1E6C

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222810
+test_cases:
+- expected_values:
+    XT5_THROTTLE_POS_CALC: 9.01961
+  response: '7E80462281017'
