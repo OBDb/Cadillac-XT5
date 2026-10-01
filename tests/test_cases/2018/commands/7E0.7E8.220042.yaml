@@ -1,5 +1,6 @@
 command_id: 7E0.7E8.220042
 test_cases:
 - expected_values:
+    CADILLAC_CTRL_MODULE_V_V2: 0
     CADILLAC_M_CTRL_MODULE_V: 0
   response: '7E8056200420000'

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221203
 test_cases:
 - expected_values:
-    CADILLAC_MIS_HISTORY_3: 0
+    CADILLAC_MIS_HISTORY_3_V2: 0
   response: '7E8056212030000'
 - expected_values:
-    CADILLAC_MIS_HISTORY_3: 1
+    CADILLAC_MIS_HISTORY_3_V2: 1
   response: '7E8056212030001'

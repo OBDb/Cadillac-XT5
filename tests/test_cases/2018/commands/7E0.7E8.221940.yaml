@@ -1,36 +1,36 @@
 command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: -40
+    CADILLAC_ATF_T_VAR_1_V2: -40
   response: "7E8 04 62 19 40 00 \n7EB 04 62 19 40 00 "
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: 40
+    CADILLAC_ATF_T_VAR_1_V2: 40
   response: "7E8 04 62 19 40 50 \n7EB 04 62 19 40 50 "
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: 51
+    CADILLAC_ATF_T_VAR_1_V2: 51
   response: "7E8 04 62 19 40 5B \n7EB 04 62 19 40 5B "
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: -40
+    CADILLAC_ATF_T_VAR_1_V2: -40
   response: |-
     7E80462194000
     7EB0462194000
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: 71
+    CADILLAC_ATF_T_VAR_1_V2: 71
   response: |-
     7E8046219406F
     7EB046219406F
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: 72
+    CADILLAC_ATF_T_VAR_1_V2: 72
   response: |-
     7E80462194070
     7EB0462194070
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: 75
+    CADILLAC_ATF_T_VAR_1_V2: 75
   response: |-
     7E80462194073
     7EB0462194073
 - expected_values:
-    CADILLAC_ATF_T_VAR_1: -40
+    CADILLAC_ATF_T_VAR_1_V2: -40
   response: |-
     7EB0462194000
     7E80462194000
