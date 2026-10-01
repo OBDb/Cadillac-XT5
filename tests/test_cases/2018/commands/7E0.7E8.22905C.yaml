@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22905C
+test_cases:
+- expected_values:
+    XT5_HOOD_POS: 0
+  response: 7E80462905C00
+- expected_values:
+    XT5_HOOD_POS: 1
+  response: 7E80462905C01

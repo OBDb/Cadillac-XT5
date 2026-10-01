@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221206
 test_cases:
 - expected_values:
-    CADILLAC_MISFIRES_C1_CUR_V2: 0
+    XT5_MISFIRES_C1_CUR: 0
   response: "221206\n7E8 04 62 12 06 00 "
+- expected_values:
+    XT5_MISFIRES_C1_CUR: 0
+  response: '7E8 04 62 12 06 00 '
+- expected_values:
+    XT5_MISFIRES_C1_CUR: 0
+  response: '7E80462120600'

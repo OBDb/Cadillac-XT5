@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221208
 test_cases:
 - expected_values:
-    CADILLAC_MISFIRES_C4_CUR_V2: 0
+    XT5_MISFIRES_C4_CUR: 0
   response: "221208\n7E8 04 62 12 08 00 "
 - expected_values:
-    CADILLAC_MISFIRES_C4_CUR_V2: 0
+    XT5_MISFIRES_C4_CUR: 0
   response: |-
     221208
     NO DATA
     7E80462120800
 - expected_values:
-    CADILLAC_MISFIRES_C4_CUR_V2: 0
+    XT5_MISFIRES_C4_CUR: 0
   response: '7E8 04 62 12 08 00 '
 - expected_values:
-    CADILLAC_MISFIRES_C4_CUR_V2: 0
+    XT5_MISFIRES_C4_CUR: 0
   response: '7E80462120800'

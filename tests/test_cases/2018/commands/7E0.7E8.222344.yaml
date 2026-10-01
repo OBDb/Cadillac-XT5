@@ -1,25 +1,25 @@
 command_id: 7E0.7E8.222344
 test_cases:
 - expected_values:
-    CADILLAC_EOP_ABS: 372
+    XT5_EOP_ABS: 372
   response: '7E8 04 62 23 44 5D '
 - expected_values:
-    CADILLAC_EOP_ABS: 404
+    XT5_EOP_ABS: 404
   response: '7E8 04 62 23 44 65 '
 - expected_values:
-    CADILLAC_EOP_ABS: 292
+    XT5_EOP_ABS: 292
   response: '7E80462234449'
 - expected_values:
-    CADILLAC_EOP_ABS: 352
+    XT5_EOP_ABS: 352
   response: '7E80462234458'
 - expected_values:
-    CADILLAC_EOP_ABS: 368
+    XT5_EOP_ABS: 368
   response: 7E8046223445C
 - expected_values:
-    CADILLAC_EOP_ABS: 392
+    XT5_EOP_ABS: 392
   response: "SEARCHING...\n7E8 04 62 23 44 62 "
 - expected_values:
-    CADILLAC_EOP_ABS: 372
+    XT5_EOP_ABS: 372
   response: |-
     SEARCHING...
     7E8046223445D

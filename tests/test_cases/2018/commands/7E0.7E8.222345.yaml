@@ -1,10 +1,8 @@
 command_id: 7E0.7E8.222345
 test_cases:
 - expected_values:
-    CADILLAC_EOP_ACT_V2: 0
-    CADILLAC_EOP_V2: 0
+    XT5_EOP: 0
   response: '7E80462234500'
 - expected_values:
-    CADILLAC_EOP_ACT_V2: 324
-    CADILLAC_EOP_V2: 324
+    XT5_EOP: 324
   response: '7E80462234551'
