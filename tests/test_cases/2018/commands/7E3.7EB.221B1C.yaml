@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     XT5_SHIFTER_Y_POS_SENS_1: 149
   response: 7EB04621B1C95
+- expected_values:
+    XT5_SHIFTER_Y_POS_SENS_1: 150
+  response: 7EB04621B1C96

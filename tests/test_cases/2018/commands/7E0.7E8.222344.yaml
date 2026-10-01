@@ -10,11 +10,11 @@ test_cases:
     XT5_EOP_ABS: 292
   response: '7E80462234449'
 - expected_values:
-    XT5_EOP_ABS: 352
-  response: '7E80462234458'
+    XT5_EOP_ABS: 392
+  response: '7E80462234462'
 - expected_values:
-    XT5_EOP_ABS: 368
-  response: 7E8046223445C
+    XT5_EOP_ABS: 740
+  response: 7E804622344B9
 - expected_values:
     XT5_EOP_ABS: 392
   response: "SEARCHING...\n7E8 04 62 23 44 62 "
