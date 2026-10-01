@@ -10,5 +10,8 @@ test_cases:
     XT5_INJECTOR_DUTY_CYCLE_BANK_2: 2.22
   response: '7E8 05 62 12 C4 00 94 '
 - expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_2: 0
+  response: 7E8056212C40000
+- expected_values:
     XT5_INJECTOR_DUTY_CYCLE_BANK_2: 2.085
   response: 7E8056212C4008B

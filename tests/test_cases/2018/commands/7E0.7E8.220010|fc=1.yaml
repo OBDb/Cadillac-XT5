@@ -10,17 +10,11 @@ test_cases:
     XT5_MAF: 0
   response: '7E8056200100000'
 - expected_values:
+    XT5_MAF: 4.49
+  response: 7E80562001001C1
+- expected_values:
     XT5_MAF: 4.69
   response: 7E80562001001D5
-- expected_values:
-    XT5_MAF: 6.64
-  response: '7E8056200100298'
-- expected_values:
-    XT5_MAF: 8.54
-  response: '7E8056200100356'
-- expected_values:
-    XT5_MAF: 24.32
-  response: '7E8056200100980'
 - expected_values:
     XT5_MAF: 41.48
   response: '7E8056200101034'
