@@ -17,9 +17,9 @@ test_cases:
     7E80462000D0F
     7EB0462000D0F
 - expected_values:
-    XT5_VSS: 98
+    XT5_VSS: 97
   response: |-
-    7E80462000D62
+    7E80462000D61
     7EB0462000D60
 - expected_values:
     XT5_VSS: 255
