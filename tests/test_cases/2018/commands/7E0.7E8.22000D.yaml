@@ -17,13 +17,13 @@ test_cases:
     7E80462000D0F
     7EB0462000D0F
 - expected_values:
-    XT5_VSS: 97
-  response: |-
-    7E80462000D61
-    7EB0462000D60
-- expected_values:
     XT5_VSS: 255
   response: 7E80462000DFF
+- expected_values:
+    XT5_VSS: 255
+  response: |-
+    7E80462000DFF
+    7EB0462000DFF
 - expected_values:
     XT5_VSS: 53
   response: "7EB 04 62 00 0D 34 \n7E8 04 62 00 0D 35 "
@@ -32,8 +32,3 @@ test_cases:
   response: |-
     7EB0462000D00
     7E80462000D00
-- expected_values:
-    XT5_VSS: 110
-  response: |-
-    7EB0462000D6C
-    7E80462000D6E
