@@ -22,5 +22,5 @@ test_cases:
     XT5_FLI: 30.98039
   response: 7E80462002F4F
 - expected_values:
-    XT5_FLI: 94.5098
-  response: 7E80462002FF1
+    XT5_FLI: 99.60784
+  response: 7E80462002FFE
