@@ -325,6 +325,8 @@ unsupported_commands_by_ecu:
   - 7E2.7EA.221941
   - 7E2.7EA.221991
   - 7E2.7EA.2219D4
+  "7E3":
+  - 7E3.7EB.22280D:XT5_ATF_T_VAR_7
   "7E4":
   - 7E4.7EC.2219A1
   - 7E4.7EC.221C43
