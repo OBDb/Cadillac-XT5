@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    XT5_EOT_CALC: 37
+  response: 7E8046211544D
+- expected_values:
+    XT5_EOT_CALC: 38
+  response: 7E8046211544E
+- expected_values:
+    XT5_EOT_CALC: 39
+  response: 7E8046211544F
+- expected_values:
+    XT5_EOT_CALC: 40
+  response: '7E80462115450'
+- expected_values:
+    XT5_EOT_CALC: 41
+  response: '7E80462115451'
+- expected_values:
+    XT5_EOT_CALC: 66
+  response: 7E8046211546A
+- expected_values:
+    XT5_EOT_CALC: 69
+  response: 7E8046211546D

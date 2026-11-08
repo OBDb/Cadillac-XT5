@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221144
+test_cases:
+- expected_values:
+    XT5_CABIN_AC_HIGH_SIDE_V: 1.76
+  response: '7E80462114458'
+- expected_values:
+    XT5_CABIN_AC_HIGH_SIDE_V: 1.78
+  response: '7E80462114459'
+- expected_values:
+    XT5_CABIN_AC_HIGH_SIDE_V: 1.84
+  response: 7E8046211445C
+- expected_values:
+    XT5_CABIN_AC_HIGH_SIDE_V: 1.92
+  response: '7E80462114460'
+- expected_values:
+    XT5_CABIN_AC_HIGH_SIDE_V: 1.94
+  response: '7E80462114461'

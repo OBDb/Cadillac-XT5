@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221145
+test_cases:
+- expected_values:
+    XT5_HEATED_OXYGEN_SENS: 0
+  response: '7E80462114500'

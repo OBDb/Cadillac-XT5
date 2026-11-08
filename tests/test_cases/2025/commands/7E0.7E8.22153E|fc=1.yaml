@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22153E|fc=1
+test_cases:
+- expected_values:
+    XT5_EOT_DA11: 44
+  response: 7E80462153E54
+- expected_values:
+    XT5_EOT_DA11: 66
+  response: 7E80462153E6A
