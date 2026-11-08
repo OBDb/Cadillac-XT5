@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222434
+test_cases:
+- expected_values:
+    XT5_AXLE_TQ_DRIVER_REQ: -9
+  response: 7E80562243457FD
+- expected_values:
+    XT5_AXLE_TQ_DRIVER_REQ: 1
+  response: '7E8056224345807'
+- expected_values:
+    XT5_AXLE_TQ_DRIVER_REQ: 1436
+  response: 7E8056224345DA2

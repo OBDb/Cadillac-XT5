@@ -1,0 +1,11 @@
+command_id: 7E0.2211A1
+test_cases:
+- expected_values:
+    XT5_RUNTM: 0
+  response: 7E8056211A10000
+- expected_values:
+    XT5_RUNTM: 504
+  response: 7E8056211A101F8
+- expected_values:
+    XT5_RUNTM: 538
+  response: 7E8056211A1021A

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22002F|fc=1
+test_cases:
+- expected_values:
+    XT5_FLI: 50.98039
+  response: 7E80462002F82
+- expected_values:
+    XT5_FLI: 51.76471
+  response: 7E80462002F84

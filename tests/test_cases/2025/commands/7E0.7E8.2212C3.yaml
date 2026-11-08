@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 0
+  response: 7E8056212C30000
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 1.155
+  response: 7E8056212C3004D
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 1.185
+  response: 7E8056212C3004F
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 1.215
+  response: 7E8056212C30051
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 1.23
+  response: 7E8056212C30052
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 1.245
+  response: 7E8056212C30053
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 1.26
+  response: 7E8056212C30054
+- expected_values:
+    XT5_INJECTOR_DUTY_CYCLE_BANK_1: 1.605
+  response: 7E8056212C3006B

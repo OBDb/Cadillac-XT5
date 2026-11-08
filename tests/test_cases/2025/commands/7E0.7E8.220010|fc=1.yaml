@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    XT5_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    XT5_MAF: 3.92
+  response: '7E8056200100188'
+- expected_values:
+    XT5_MAF: 3.95
+  response: 7E805620010018B
+- expected_values:
+    XT5_MAF: 4
+  response: '7E8056200100190'
+- expected_values:
+    XT5_MAF: 4.04
+  response: '7E8056200100194'
+- expected_values:
+    XT5_MAF: 4.1
+  response: 7E805620010019A
+- expected_values:
+    XT5_MAF: 4.15
+  response: 7E805620010019F
+- expected_values:
+    XT5_MAF: 4.2
+  response: 7E80562001001A4
+- expected_values:
+    XT5_MAF: 4.31
+  response: 7E80562001001AF
