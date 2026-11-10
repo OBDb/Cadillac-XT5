@@ -1,20 +1,8 @@
 command_id: 7E0.7E8.221564
 test_cases:
 - expected_values:
-    XT5_AC_HIGH_SIDE_P: 153.52
-  response: 7E8046215644C
-- expected_values:
-    XT5_AC_HIGH_SIDE_P: 157.56
-  response: 7E8046215644E
-- expected_values:
-    XT5_AC_HIGH_SIDE_P: 159.58
-  response: 7E8046215644F
-- expected_values:
-    XT5_AC_HIGH_SIDE_P: 169.68
-  response: '7E80462156454'
-- expected_values:
-    XT5_AC_HIGH_SIDE_P: 171.7
-  response: '7E80462156455'
+    XT5_AC_HIGH_SIDE_P: 88.88
+  response: 7E8046215642C
 - expected_values:
     XT5_AC_HIGH_SIDE_P: 173.72
   response: '7E80462156456'

@@ -4,5 +4,5 @@ test_cases:
     XT5_EOP_CALC: 0
   response: 7E804621C1B00
 - expected_values:
-    XT5_EOP_CALC: 228
-  response: 7E804621C1B39
+    XT5_EOP_CALC: 248
+  response: 7E804621C1B3E

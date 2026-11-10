@@ -4,29 +4,8 @@ test_cases:
     XT5_M_CTRL_MODULE_V: 0
   response: '7E8056200420000'
 - expected_values:
-    XT5_M_CTRL_MODULE_V: 14.435
-  response: '7E8056200423863'
-- expected_values:
-    XT5_M_CTRL_MODULE_V: 14.437
-  response: '7E8056200423865'
-- expected_values:
-    XT5_M_CTRL_MODULE_V: 14.449
-  response: '7E8056200423871'
-- expected_values:
-    XT5_M_CTRL_MODULE_V: 14.456
-  response: '7E8056200423878'
-- expected_values:
-    XT5_M_CTRL_MODULE_V: 14.469
-  response: '7E8056200423885'
-- expected_values:
-    XT5_M_CTRL_MODULE_V: 14.473
-  response: '7E8056200423889'
-- expected_values:
-    XT5_M_CTRL_MODULE_V: 14.487
-  response: '7E8056200423897'
-- expected_values:
-    XT5_M_CTRL_MODULE_V: 14.489
-  response: '7E8056200423899'
-- expected_values:
     XT5_M_CTRL_MODULE_V: 14.492
   response: 7E805620042389C
+- expected_values:
+    XT5_M_CTRL_MODULE_V: 14.627
+  response: '7E8056200423923'
