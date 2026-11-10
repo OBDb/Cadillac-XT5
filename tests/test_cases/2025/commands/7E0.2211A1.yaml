@@ -4,8 +4,8 @@ test_cases:
     XT5_RUNTM: 0
   response: 7E8056211A10000
 - expected_values:
-    XT5_RUNTM: 504
-  response: 7E8056211A101F8
+    XT5_RUNTM: 254
+  response: 7E8056211A100FE
 - expected_values:
     XT5_RUNTM: 538
   response: 7E8056211A1021A

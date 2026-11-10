@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     XT5_THROTTLE_POS_CALC: 0
   response: '7E80462281000'
+- expected_values:
+    XT5_THROTTLE_POS_CALC: 2.35294
+  response: '7E80462281006'
+- expected_values:
+    XT5_THROTTLE_POS_CALC: 20
+  response: '7E80462281033'

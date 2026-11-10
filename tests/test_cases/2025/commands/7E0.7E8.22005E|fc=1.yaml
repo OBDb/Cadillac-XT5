@@ -4,17 +4,5 @@ test_cases:
     XT5_FUEL_RATE: 0
   response: 7E80562005E0000
 - expected_values:
-    XT5_FUEL_RATE: 1.4
-  response: 7E80562005E001C
-- expected_values:
-    XT5_FUEL_RATE: 1.45
-  response: 7E80562005E001D
-- expected_values:
-    XT5_FUEL_RATE: 1.5
-  response: 7E80562005E001E
-- expected_values:
-    XT5_FUEL_RATE: 1.55
-  response: 7E80562005E001F
-- expected_values:
-    XT5_FUEL_RATE: 1.6
-  response: 7E80562005E0020
+    XT5_FUEL_RATE: 7.25
+  response: 7E80562005E0091

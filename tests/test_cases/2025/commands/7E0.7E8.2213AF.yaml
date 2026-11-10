@@ -4,5 +4,11 @@ test_cases:
     XT5_COOLING_FAN_MOTOR_CMD: 0
   response: 7E8046213AF00
 - expected_values:
+    XT5_COOLING_FAN_MOTOR_CMD: 14.5098
+  response: 7E8046213AF25
+- expected_values:
+    XT5_COOLING_FAN_MOTOR_CMD: 21.56863
+  response: 7E8046213AF37
+- expected_values:
     XT5_COOLING_FAN_MOTOR_CMD: 25.4902
   response: 7E8046213AF41
