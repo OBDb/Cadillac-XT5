@@ -4,5 +4,5 @@ test_cases:
     XT5_EOT_CALC: 22
   response: 7E8046211543E
 - expected_values:
-    XT5_EOT_CALC: 69
-  response: 7E8046211546D
+    XT5_EOT_CALC: 92
+  response: '7E80462115484'
