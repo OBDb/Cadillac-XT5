@@ -4,5 +4,5 @@ test_cases:
     XT5_ATF_T_VAR_1: 23
   response: 7E8046219403F
 - expected_values:
-    XT5_ATF_T_VAR_1: 96
-  response: '7E80462194088'
+    XT5_ATF_T_VAR_1: 100
+  response: 7E8046219408C
