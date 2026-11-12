@@ -4,5 +4,5 @@ test_cases:
     XT5_EOT: 24
   response: 7E80462005C40
 - expected_values:
-    XT5_EOT: 107
-  response: 7E80462005C93
+    XT5_EOT: 108
+  response: 7E80462005C94

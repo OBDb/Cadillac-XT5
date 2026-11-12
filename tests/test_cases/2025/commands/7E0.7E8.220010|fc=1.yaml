@@ -4,8 +4,8 @@ test_cases:
     XT5_MAF: 0
   response: '7E8056200100000'
 - expected_values:
-    XT5_MAF: 5.08
-  response: 7E80562001001FC
+    XT5_MAF: 5.1
+  response: 7E80562001001FE
 - expected_values:
     XT5_MAF: 66.89
   response: 7E8056200101A21
