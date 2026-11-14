@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22005C|fc=1
 test_cases:
 - expected_values:
-    XT5_EOT: 24
-  response: 7E80462005C40
+    XT5_EOT: 16
+  response: 7E80462005C38
 - expected_values:
     XT5_EOT: 110
   response: 7E80462005C96
