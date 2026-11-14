@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
-    XT5_ATF_T_VAR_1: 23
-  response: 7E8046219403F
+    XT5_ATF_T_VAR_1: 16
+  response: '7E80462194038'
 - expected_values:
     XT5_ATF_T_VAR_1: 100
   response: 7E8046219408C
